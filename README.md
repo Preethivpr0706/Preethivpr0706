@@ -9,9 +9,7 @@
 - 🤔 Seeking guidance and insights for placements in FAANG companies
 - 💬 Let's talk Tech! Feel free to ask me anything about technology
 - 📫 Reach out to me: 
-  <br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harish-kumar-r-718250232/)
-  <br/>[<img width="50" height="50" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/harish_rknan?igsh=MTdiOWx1dHptMjFxZA==)
-
+  <br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/preethi-vijay-64922525b/)
 😄 Pronouns: Techie
 
 ### I code in
